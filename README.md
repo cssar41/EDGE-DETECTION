@@ -10,7 +10,6 @@ Anaconda - Python 3.7
 ### Step1:
 Import the required
 
-
 ### Step2:
 Convert the input image to gray , to get more details and for laplcian operator, we have to convert input 
 image to bgr format
@@ -31,6 +30,8 @@ Show to detected image
 Developed By: Saravanan C
 Register No: 212222110041
 ```
+
+
 
 ``` Python
 # Import the packages
